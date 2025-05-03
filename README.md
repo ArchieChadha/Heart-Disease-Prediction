@@ -1,5 +1,5 @@
 Heart Disease Prediction
-Predicting heart disease presence using machine learning techniques 🚑⚡
+Predicting heart disease presence using machine learning techniques
 
 Overview
 Heart disease is one of the leading causes of death worldwide. This project leverages machine learning models to predict the likelihood of heart disease using patient medical records. The solution is built with WEKA and uses classification algorithms to achieve accurate predictions.
@@ -61,8 +61,6 @@ This project was developed as part of a data mining academic assignment. Special
 
 Contact
 Archie Chadha
-Software Developer & IT Student
-archiechadha12@gmail.com
-https://www.linkedin.com/in/archie-chadha-1869ba281/
+Email: archiechadha12@gmail.com | Linkedin: https://www.linkedin.com/in/archie-chadha-1869ba281/
 
 > ⭐ If you find this project useful, feel free to star this repo and connect with me!
